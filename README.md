@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java DSA Web Development**
 
-- 📫 How to reach me **gauravofficial056@gmail.com**
+- 📫 How to reach me **1809157@sbsstc.ac.in**
 
 - ⚡ Fun fact **cricketer turned engineer**
 
