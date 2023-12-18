@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav560&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav560" /> </p>
 
-- 🌱 Java Full Stack Web Application Developer**
+- 🌱 Java Full Stack Web Application Developer 
 
 - 💬 Ask me about **Creating Backend for Complex Web Applications**
 
