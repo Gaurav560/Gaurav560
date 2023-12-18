@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav560&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav560" /> </p>
 
-- 🌱 I’m currently learning **Java full stack course**
+- 🌱 Java Full Stack Web Application Developer**
 
-- 💬 Ask me about **Java DSA Web Development**
+- 💬 Ask me about **Creating Backend for Complex Web Applications**
 
 - 📫 How to reach me **1809157@sbsstc.ac.in**
 
-- ⚡ Fun fact **cricketer turned engineer**
+- ⚡ Fun fact **Full Time Software Engineer Part-time Cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
