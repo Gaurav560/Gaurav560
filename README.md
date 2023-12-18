@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **1809157@sbsstc.ac.in**
 
-- ⚡ Fun fact **Full Time Software Engineer Part-time Cricketer**
+- ⚡ Fun fact **: Full Time Software Engineer Part-time Cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
