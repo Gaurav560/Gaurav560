@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav560&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav560" /> </p>
 
-- 🌱 Java Full Stack Web Application Developer 
+- 🌱 SDE 1 |JAVA |AI |GEN AI |AGENTIC AI | LLMs Fine tuning
 
-- 💬 Ask me about **Creating Backend for Complex Web Applications**
+- 💬 Ask me about **Writing Backend Stuff for Web Applications  && indulged in Gen AI, Agents, Workflows, fine tuning of LLMs**
 
 - 📫 How to reach me **1809157@sbsstc.ac.in**
 
