@@ -25,7 +25,7 @@
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF8C00,100:FFD700&height=230&section=header&text=GAURAV%20SHARMA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=51&descAlign=62"/> -->
 
 <h3>1000+ Concurrent Users | Sub-100ms Latency</h3>
-
+Register your d
 <!-- ===== SOCIAL BADGES ===== -->
 <a href="https://github.com/Gaurav560">
   <img src="https://img.shields.io/badge/GITHUB-GAURAV560-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -53,7 +53,7 @@
 🌍 Pune, India • `18.5246° N, 73.8786° E`
 
 **Production Systems**  
-🚀 [AlienCoach.com](https://aliencoach.com/) • ⚡ [AlienTux.com](https://alientux.com/)
+ [AlienCoach.com](https://aliencoach.com/) • ⚡ [AlienTux.com](https://alientux.com/)
 
 </div>
 
@@ -139,7 +139,7 @@ Performance: < 100ms latency
 
 Building a modern LMS with multi-agent orchestration, production RAG, and high-scale backend.
 
-```yaml
+```yamlRegister your d
 Stack:
   Backend: FastAPI
   AI: LangChain, LangGraph, Agents, Advanced RAG
