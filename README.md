@@ -1,26 +1,5 @@
-# Project Title
+# README
 
-## Overview
-This project is designed to ...
+... (content from lines 1-214)
 
-## Getting Started
-
-### Prerequisites
-- Prerequisite 1
-- Prerequisite 2
-
-### Installation
-Steps to install the project ...
-
-## Usage
-
-## Features
-- Feature 1
-- Feature 2
-
-## Contributing
-
-## GitHub Stats
-![GitHub Stats](https://example.com/footer_wave_image.png)
-
-</div>
+![Footer Image](https://link-to-your-volcano-theme-image)
